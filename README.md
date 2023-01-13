@@ -4,8 +4,6 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCC0O53_bVx2VlWR0isZKGjA)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathns_/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuspzs&show_icons=true&theme=radical)
-
 ## Especialista em
 
 <div style="display: inline_block">
